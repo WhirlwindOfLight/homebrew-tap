@@ -1,8 +1,8 @@
 class HardwareVnc < Formula
   desc "Hardware-based VNC Server for VMs that use Physical GPU"
   homepage "https://github.com/WhirlwindOfLight/HardwareVNC"
-  url "https://github.com/WhirlwindOfLight/HardwareVNC/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "9f8783e2f3efe2792e3ceb73aaa6878ebe79e49dac557ee0ff8494049f0fdc3e"
+  url "https://github.com/WhirlwindOfLight/HardwareVNC/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "c00cc8cee0b4bda6ba14e98702d2e4a51de96db04fd647dee9ab5511a9c14029"
   license "GPL-3.0-only"
   head "https://github.com/WhirlwindOfLight/HardwareVNC.git", branch: "main"
 
